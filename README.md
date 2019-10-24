@@ -4,35 +4,34 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|Kyota Kobayashi|
+|facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)|
+|Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)|
+|Qiita|[@wforskk](https://qiita.com/wforskk)|
 
 ## スキル
 ### 言語
-- Ruby
-- PHP
 - Java
+- Dart(Flutter/SDK)
+- VB
+- C#
 - などなど
 
 ### フレームワーク
-
-- Ruby on Rails
-- Laravel
-- Spring Boot
+- Spring
+- .NET
 - などなど
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- 
 
 ## 言語
 
 - 日本語
   - ネイティブ
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - 公式ドキュメントと戦える程度
 
 ## 強み
 
