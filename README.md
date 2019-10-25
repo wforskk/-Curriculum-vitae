@@ -138,7 +138,7 @@
 
 #### 開発環境
 
-- VB
+- C#
 - SQL Server
 - aspx
 - JavaScript
