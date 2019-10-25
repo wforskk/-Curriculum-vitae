@@ -2,13 +2,13 @@
 
 ## 基本情報
 
-|key|value|
-|---|-----|
-|Name|Kyota Kobayashi|
-|facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)|新規作成のため、情報追加中
-|Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)|新規作成のため、情報追加中
-|Qiita|[@wforskk](https://qiita.com/wforskk)|新規作成のため、現在執筆中
-|YouTube|Kyota Kobayashi|新規作成のため、情報追加中
+|key|value|備考|
+|---|-----|----------|
+|Name|Kyota Kobayashi||
+|facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)|新規作成のため、情報追加中|
+|Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)|新規作成のため、情報追加中|
+|Qiita|[@wforskk](https://qiita.com/wforskk)|新規作成のため、現在執筆中|
+|YouTube|Kyota Kobayashi|新規作成のため、情報追加中|
 
 ## スキル
 ### 言語
@@ -23,10 +23,6 @@
 - .NET
 - などなど
 
-### その他
-
-- 
-
 ## 言語
 
 - 日本語
@@ -40,7 +36,7 @@
 
 ## 職務経歴
 
-### 2019/11 - 現在
+### ★2019/11 - 現在
 
 職務: Webアプリケーションエンジニア
 
@@ -58,7 +54,7 @@
 - Java
 - oracle
 
-### 2019/4 - 2019/11
+### ★2019/4 - 2019/11
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -90,7 +86,7 @@
 - maven
 - Eclipse
 
-### 2018/10 - 2019/3
+### ★2018/10 - 2019/3
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -123,7 +119,8 @@
 - Jenkins
 - Eclipse
 
-### 2017/10 - 2018/9
+
+### ★2017/10 - 2018/9
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -151,7 +148,8 @@
 
 - Visual Studio
 
-### 2017/6 - 2017/9
+
+### ★2017/6 - 2017/9
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
