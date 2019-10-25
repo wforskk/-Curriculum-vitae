@@ -5,9 +5,10 @@
 |key|value|
 |---|-----|
 |Name|Kyota Kobayashi|
-|facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)|
-|Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)|
-|Qiita|[@wforskk](https://qiita.com/wforskk)|
+|facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)|新規作成のため、情報追加中
+|Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)|新規作成のため、情報追加中
+|Qiita|[@wforskk](https://qiita.com/wforskk)|新規作成のため、現在執筆中
+|YouTube|Kyota Kobayashi|新規作成のため、情報追加中
 
 ## スキル
 ### 言語
@@ -39,37 +40,144 @@
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2019/11 - 現在
 
-職務: Webアプリケーションエンジニア（例）
+職務: Webアプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### 支援システム※かなり秘密主義（国系）のため、技術系のみ記載
 
-- 職務内容の詳細を箇条書きでかく
+- 画面開発
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### 開発工程
 
-職務: サーバーサイドエンジニア
+- 基本設計
 
-#### 職務内容の名前（レストラン検索とか）
+#### 開発環境
 
-- 職務内容の詳細を箇条書きでかく
+- Anglar
+- Java
+- oracle
+
+### 2019/4 - 2019/11
+
+職務: Webアプリケーション,サーバーサイドエンジニア
+
+#### 電報系社内システム
+
+- マスタ操作系の画面開発
+- 住所、ログイン、暗号化などの共通部品開発
+
+#### 開発工程
+
+- 基本設計
+- 詳細設計
+- 製造
+
+#### 開発環境
+
+- Linux(Red Hat系)
+- Java
+- Spring + メーカー独自のフレームワーク使用
+- PostgreSQL
+- HTML
+- JavaScript
+- jQuery
+- Bootstrap
+
+#### その他使用ツール
+
+- GitHub
+- maven
+- Eclipse
+
+### 2018/10 - 2019/3
+
+職務: Webアプリケーション,サーバーサイドエンジニア
+
+#### 電力系社内システム
+
+- 住所、マスタ操作系の画面開発
+- データ取得系の共通部品開発
+
+#### 開発工程
+
+- 基本設計
+- 詳細設計
+- 製造
+- テスト
+
+#### 開発環境
+
+- Linux(Red Hat系)
+- Java
+- PostgreSQL
+- Xhtml
+- JavaScript
+- メーカー独自のフレームワーク使用
+
+#### その他使用ツール
+
+- GitHub
+- Maven
+- Junit
+- Jenkins
+- Eclipse
+
+### 2017/10 - 2018/9
+
+職務: Webアプリケーション,サーバーサイドエンジニア
+
+#### 通信系顧客、店舗情報管理システム
+
+- 新規端末管理システムの画面開発
+- 脆弱性対応（SQLインジェクション対応）
+
+#### 開発工程
+
+- 基本設計
+- 詳細設計
+- 製造
+- テスト
+
+#### 開発環境
+
+- VB
+- SQL Server
+- aspx
+- JavaScript
+- .NET
+
+#### その他使用ツール
+
+- Visual Studio
+
+### 2017/6 - 2017/9
+
+職務: Webアプリケーション,サーバーサイドエンジニア
+
+#### 卸売業系契約管理システム
+
+- システム運用
+- マスタ管理（更新含む）
+- 顧客対応、バグ調査
+- システム改修
+
+#### 開発工程
+
+- 詳細設計
+- 製造
+- テスト
+- 運用
+
+#### 開発環境
+
+- VB
+- Oracle
+- .NET
+
+#### その他使用ツール
+
+- Visual Studio
 
 ## 課外活動
-
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+- FlutterのSDKを使用して、個人開発
