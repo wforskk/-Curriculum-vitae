@@ -8,7 +8,7 @@
 |facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)|新規作成のため、情報追加中|
 |Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)|新規作成のため、情報追加中|
 |Qiita|[@wforskk](https://qiita.com/wforskk)|新規作成のため、現在執筆中|
-|YouTube|Kyota Kobayashi|新規作成のため、情報追加中|
+|YouTube|[Kyota Kobayashi](https://www.youtube.com/channel/UCPTVobyA7toan-7mVDJfVTw/)|新規作成のため、情報追加中|
 
 ## スキル
 ### 言語
