@@ -2,28 +2,39 @@
 
 ## 基本情報
 
-|key|value|備考|
+|名前|値|備考|
 |---|-----|----------|
 |Name|Kyota Kobayashi||
 |facebook|[Kyota Kobayashi](https://www.facebook.com/kobayashi.kyota.98)||
 |Twitter|[@kyota_kobayashi](https://twitter.com/kyota_kobayashi)||
-|Qiita|[@wforskk](https://qiita.com/wforskk)||
-|YouTube|[Kyota Kobayashi](https://www.youtube.com/channel/UCPTVobyA7toan-7mVDJfVTw/)|新規作成のため、情報追加中|
+<!-- |Qiita|[@wforskk](https://qiita.com/wforskk)|| -->
+<!-- |YouTube|[Kyota Kobayashi](https://www.youtube.com/channel/UCPTVobyA7toan-7mVDJfVTw/)|準備中| -->
 
 ## スキル
 ### 言語
-- Java
+- TypeScript(Javascript)
+- HTML
+- SCSS、CSS
 - Dart(Flutter/SDK)
-- VB
-- C#
-- などなど
 
 ### フレームワーク
-- Spring
-- .NET
-- などなど
+- Next.js（ReactのSSRバージョン）
+- node.js
+- Angular
+- Flutter
 
-## 言語
+### その他技術
+- GAS（Google App Script）
+- Cypress(フロントサイドテストツール）
+- Lambda（AWSのバックエンド処理実行用)
+- Prisma（ORM）
+- PostgreSQL
+- Vercel（Paas)
+- Heroku(Paas）
+- git
+- S3(Paas）
+
+## 作業言語
 
 - 日本語
   - ネイティブ
@@ -32,11 +43,47 @@
 
 ## 強み
 
+- 保守性が高いソースを作成※基本的にはプロジェクトルールに準ずる
+  - ESLintに従ったTypeScriptを記述（必要に応じた型宣言、const優先、階層制限など）
+  - 共通スタイル（@mixinや変数）を作成
+  - 必要に応じたコンポーネント作成
+  - コメントを記述
+- 365日連絡、ミーティング対応可
+
 ## やったことはないが興味があるもの
+- ブロックチェーン技術を用いたサービスサイト作成
+- awsを用いたAftetEffectsの自動レンダリングシステム作成
 
-## 職務経歴
+# 職務経歴
 
-### ★2019/11 - 現在
+## ★2021/4 - 現在
+
+職務: フルスタックエンジニア
+
+#### [プレサービスサイト](https://360.nokid.jp/)（お問い合わせ、作業依頼画面あり）
+
+#### 開発環境
+
+- Next.js
+- TypeScript
+- SCSS
+- Heroku
+- git
+- vercel
+- node.js
+- ESLint
+
+#### その他情報
+
+- 依頼から約1週間で[サイト](https://360.nokid.jp/)を作成
+- レスポンシブ対応
+- お問い合わせの受信先にGMailを使用（直接）
+
+###### 今後リリース予定機能
+
+- AWSのcognitoを用いたログイン機能の実装
+
+## ★2019/11 - 2021/3
 
 職務: Webアプリケーションエンジニア
 
@@ -51,10 +98,20 @@
 #### 開発環境
 
 - Anglar
+- Ignite UI
+- TypeSrcipt
+- SCSS
+- HTML
+- TSLint
 - Java
 - oracle
 
-### ★2019/4 - 2019/11
+#### その他使用ツール
+
+- Visual Studio
+- git
+
+## ★2019/4 - 2019/11
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -85,8 +142,9 @@
 - GitHub
 - maven
 - Eclipse
+- Visual Studio
 
-### ★2018/10 - 2019/3
+## ★2018/10 - 2019/3
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -119,8 +177,12 @@
 - Jenkins
 - Eclipse
 
+#### その他使用ツール
 
-### ★2017/10 - 2018/9
+- Visual Studio
+
+
+## ★2017/10 - 2018/9
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -149,7 +211,7 @@
 - Visual Studio
 
 
-### ★2017/6 - 2017/9
+## ★2017/6 - 2017/9
 
 職務: Webアプリケーション,サーバーサイドエンジニア
 
@@ -176,6 +238,3 @@
 #### その他使用ツール
 
 - Visual Studio
-
-## 課外活動
-- FlutterのSDKを使用して、個人開発
