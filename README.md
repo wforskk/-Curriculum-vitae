@@ -21,7 +21,7 @@
 - Next.js（ReactのSSRバージョン）
 - node.js
 - Angular
-- Flutterf
+- Flutter
 
 ### その他技術
 - GAS（Google App Script）
