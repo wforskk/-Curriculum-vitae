@@ -131,9 +131,9 @@
 #### 開発環境
 
 - Next.js
-- TypeScript
-- SCSS
-- amplify+cognito+Graphql
+  - TypeScript
+  - SCSS
+- amplify
 - git
 - node.js
 - ESLint
@@ -186,8 +186,8 @@
 #### 開発環境
 
 - Next.js
-- TypeScript
-- SCSS
+  - TypeScript
+  - SCSS
 - Heroku
 - git
 - vercel
@@ -247,10 +247,10 @@
 #### 開発環境
 
 - Anglar
-- Ignite UI
-- TypeSrcipt
-- SCSS
-- HTML
+  - Ignite UI
+  - TypeSrcipt
+  - SCSS
+  - HTML
 - TSLint
 - Java
 - oracle
