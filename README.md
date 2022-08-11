@@ -92,6 +92,31 @@
 # 職務経歴
 
 
+## ★2022/04 - 
+
+#### x to earnアプリ開発
+
+#### 開発環境
+
+- Next.js
+  - TypeScript
+  - scss 
+- amplify
+  - Lambda（node.js）
+  - DynamoDB
+  - CloudFormation
+  - Route53
+  - CloutFront
+  - AppSync
+  - S3
+
+#### 作業内容
+- プロジェクト統括
+- サービス設計
+- 開発環境構築
+- スケジュール管理
+- 仕様、要件定義
+
 ## ★2022/08 - 
 
 #### マーケットプレイスのマルチチェーン対応
@@ -132,10 +157,18 @@
 
 - Next.js
   - TypeScript
-  - SCSS
+  - scss 
 - amplify
+  - cognito
+  - Lambda（node.js）
+  - SES
+  - DynamoDB
+  - CloudFormation
+  - Route53
+  - CloutFront
+  - AppSync
+  - S3
 - git
-- node.js
 - ESLint
 
 ## ★2021/10 - 
